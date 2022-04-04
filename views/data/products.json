@@ -1,0 +1,92 @@
+[{
+    "id": 1,
+    "Categoria ": "Raqueta",
+    "Genero": "Grips",
+    "Marca": "Head",
+    "descripcion": "in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus",
+    "precio": 84.12,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHBSURBVDjLlVM9aMJQEP6eNEF0sbiUouLgoLRkKXS1IG4dC6Xg2LXQRXATHbqVzq4iQjc3sVscnUSnYIdIB9GC4L/xL333IEFsBj04jpf77nt3l+8x0zRxaMViMbTdbtXVahVer9dYLBY/0+k0mcvltEPsGRzMMIyPQCAQ9ng8IAJd14OdTuedp+4PsS4ngslkctFoNNBsNgWB2+3GaDQKOWEdCTgY2WyW9Xo9QbBcLoUfTSDLsoiMMUFgkRxNwHeAdDpt+nw+8EUKp29O5rhEvnEoigJJktBqteD3+0/rgINNulHTNCjzGR5++1Bvb67x+vLF/dmxg3K5HOZB2+12MncxfzAYxJ25wcXjE5ixZCu9m/wufybfUqnLUqmUtwmomAtKi0ajcrVaxWAwQKFQEHOfK1dQajUwrwdSrw8ZEiKRSC4ej0NV1TwjJXI2IxaLyZwA4/FYFHL12T6fz+3o9XrhcrmQyWTQbreZ6IAnZS5dVCoVEpFYmFVEPpvNxJm+0zmRSIhoj0AJunU4HNogq3C/EwtHuqBfaxNQkhJ8NpGwAPtxs9n8c5ug2+2iXq/bojl0S41URKPuv2Dm9JxPsT8W0mO2IJm2EgAAAABJRU5ErkJggg==",
+    "Type": "Mas vendidos"
+  }, {
+    "id": 2,
+    "Categoria ": "Grips",
+    "Genero": "Paddle",
+    "Marca": "Head",
+    "descripcion": "et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi",
+    "precio": 14.05,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGNSURBVDjLpVM9SwNBEJ297J1FQBtzjQj2dgppYiP4A1KZRoiFrYWt9rHyH6QUPBDTCimtLNSAnSB26YKg4EdMdsd5611cjwsIWRhmZ3f2zZuPVcxMsyx9fPF0NRfS2vM7lx2WtcQiJHvDRvZMluXMGNHstJH7+Wj09jHkOy1+tc3VxeC+P6TXT1sYZX2hT7cvS6lepv3zHUp2T8vXNw81dXT2yGwEGeERSbSVCC5qysYa+3vm9sJGmLFojceXJ9uklCqUIAic5G3IytahAAhqqVSiwWDwx6nogW9XKhWphaGAvC50Oh1qtVr/7oAdCwBQwjB00mg0qFqtUr1ed3YURZM7X7TWTqM2Gm3CASRJEur1etTtdp1DnrafFtJGMbVNGSBas9l0DrAzR6x8DdwASUB0RqNNGS2/gH7EInvCwMhkZTnlnX0GsP09tJER0BgMoAEAa1rETDIQvBkjBZeHMIjjuNB5Ggg0/oZWPGrHGwd7Fp9F2CAlgHKqf0aYXb6Y2mzE8d/IfrXVrN/5G81p6oa2mIEUAAAAAElFTkSuQmCC",
+    "Type": "Ingresos"
+  }, {
+    "id": 3,
+    "Categoria ": "Bolso",
+    "Genero": "Bolsos",
+    "Marca": "Babolat",
+    "descripcion": "ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit",
+    "precio": 96.04,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIiSURBVDjLpdNdSFNhGAdw6baL7qUuuonA6Cojoiw6qwth0VUsDIxKggohIXGtpA+1DxQhwoltsXKjNpbruC9q5jypMwf2sdlqbc120ixzfqzV8Lhz/r3vWRw0yAt38eeF857nx/McnlMEoKiQ/Pei5ayluP2YnzUdeZd8XpMWzef4hRtV24zXNRtA4iQpXxGwMvPSgFbEzHsJU6+BoTrgUVUIi9lZ+Bq2y4gM3DplWePdK3R59giCu0yAk4TdLeCjXUI6CWRTQJoH5hJAn8sEvqcJ5pqtFDguAy0nrGtd+3L9Yy5gzAt8Iue3IJCKAJMvSWEc+BoAvvgBfXUpxrlWtFZupECxDNyp9GxyqMQQBQIXgUEdEDHlsR9hYJpkYpA8M4uwa0sRc1TTYigf0aAJHGLV4BNuMmc9yRXy8n0g6QNmoqSLYQL0A7GeDPqaGQJfWg48PBhrjNowP2oEgg0kTQTozLecmQS+j+S7eOVNImy8gKHbBygwqgDdqp/dCSdytHWuFggbAL4XmHpDxnBLIqfL/uZqc4v+q7N429aJJ/U7KXBNATxMbjj+GPj8jOQpaXcA8J0UYVNlJPZ8fCRqFTVcY+peyfrNCLVr0XG6hAJlCtBx9MVdm5r/5WAyUheTlizlEwv6Ci6wdCdIAWM4swWRB4eXzb/iIv0D3GQv7yoI+BDUqwsC5OLe5v3KCq8KsOt2UKBuNUDb37+QnuuW3v0BGUzmBpilPwcAAAAASUVORK5CYII=",
+    "Type": "Mas vendidos"
+  }, {
+    "id": 4,
+    "Categoria ": "Grips",
+    "Genero": "Bolsos",
+    "Marca": "Babolat",
+    "descripcion": "vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum",
+    "precio": 26.49,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADrSURBVDjLY/z//z8DJYCJgUIwyAwoPZHJBsS7STGABY1/9e+fvzKkGMAIiwWgzRfF2ST0/vz5w/Dw/UOGXz9/M/z6AcK/GH4CMZj+jmCD5C70X2VkgWo+KcYqrqfArcTw598fBhluOTD9++9fIP7N8PsfEP/9AxUD0b8ZVq9ci/AC0Nm//zD+Yfj19xdY0R+got9gxb8RNNQAkNyf/0CxX39QvZC5M+68MJuIAQczJ8PDlw8ZXr9/g9XZIK+BNP/5/Yfh/sJHjIzIKTF2VchNoEI5oAbHDWk7TpAcjUDNukDNB4nVjOKFEZwXAOOhu7x6WtPJAAAAAElFTkSuQmCC",
+    "Type": "Ingresos"
+  }, {
+    "id": 5,
+    "Categoria ": "Grips",
+    "Genero": "Tennis",
+    "Marca": "Head",
+    "descripcion": "lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti",
+    "precio": 90.27,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHnSURBVDjLpZM/a1RRFMTPfXv3L5sYIXYSxMbCWsTCOo1JGlPYWKeyshE7v4JNwCZfQRBBBBsLERsbv4K1hGz23TMz91i8t4muleQ0h1vM3B/MnBQRdpVJz78c3Y8wq5KJMlJGyOg0OAyrXbr9/tmnr38a5IjYFOtnUUawE+NvkZfVGw/XCTIhE5Ums/GL0WRklZckWCM5P1vuHBzvPuhJXvUGNEJpPB3d8sLXgoYEh6IGdGYAGc4Gjrw4XbbD0eA7Ch5fEMBpdCY4Ex2T2cb0TcQ4VSqRSiQToUSnTefTiailt37t4Hj3GxyWUWBwNMTY4Byb2Z2zX4uXVdoi61zSlqg5wZkv/UatsShLH1iynyjYz966oSMwFI4IWUS9LdWNKm0ImhEYwzV050xSeMHALBovsFzajgAFqRSfEDSx3hQ1AzShYwTnAI4BWh+SGnoLC4uKQusJcK9dtNuL0+XdzetzK63vEMwXwi7GhAITa+PFI8IqHJbfHn34aGZ2eLL3pMnNDxRYlYogEWzgSl0KNDgrnIHOgAQtr+LoSR5569ae+7YXJDhq/3ugIAAanQFnNTMQtLR+C4cnewHHOxQEHOGFtTOg4BBBsaMLUU/zejUvSMpllVf3QO+r3re1Sv8S/O80dsX5DaeOJ5G2UDDRAAAAAElFTkSuQmCC",
+    "Type": "Ingresos"
+  }, {
+    "id": 6,
+    "Categoria ": "Bolso",
+    "Genero": "Bolsos",
+    "Marca": "Wilson",
+    "descripcion": "nulla elit ac nulla sed vel enim sit amet nunc",
+    "precio": 89.51,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHySURBVDjLpZNLaFNREIa/k3vTR4qKFdpaxZhFfeBCUEF8oaAiulIkoCtdFATBRcWFG6EgCG5VfFBduBVBFIIQHwga3GlREJVqS4OhrRKjwdxc7z0zLq5JGwwSceCszplv/n/OjFFV/idcgKOXXg4BSWArsB5UUQyixGKGmAERQSyluKtjK5fO34Aopw6uMqgqRy6+GNF/jPO33qiqRgqAbQA3csW6tL8ZG9zSzdvJkl+3gGhf7XKgpx0AY5onv5v2AfCqQVsdoKqJWtX3M35LzVNrzSxA1K1JazXECnMBBiA9/IiqCKKQObub8cK3psmp/gWoWABiESCiffECNq7upeiF9cfzEm0Np24htA0KAChXLYEqFT9sqBhYpZQd4Wv2Gl5+jHzvEtbGdwB7I4D5rcD3A7zAYqtBA6CUvU4wept16UHaU2vwXmXpfPqQB7viJyILc3692WTPZC4wsP0AHR+eYG4eJvHxDqlkN2p0yAWQUBQwAPdzEw3J5cpPwqlJOvpSsO/k7A4ML8YRs9wFsCITQOr11f1/dBsg39NPZTRD173j+N4UFaD83cE6FKJJtHI3febxClXdhMhCkRBUULGohGzu2knb82ckF3XiOnHKn0PGp2OqyGXT6jrnDi07/aNYOOZYk7SOflK4sicbnvsFhzwbXdu8qEIAAAAASUVORK5CYII=",
+    "Type": "Ofertas"
+  }, {
+    "id": 7,
+    "Categoria ": "Raqueta",
+    "Genero": "Bolsos",
+    "Marca": "Head",
+    "descripcion": "tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum",
+    "precio": 55.33,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACxSURBVDjL7dI9C0FxGAXw8znu5/IdZDGYjI+BzWSwKFnlpW5dcaPkbgalPInyzqSrG65w0/EJlH9Ww1l/dU4HJPFL8Ac+AB4sepCoDw1dqG9DdlVYJoC8VsLI7/B5dBhMhNMy5Gvg0YNGJ5f3bYbhPMVw3+SwAP0aCBzo49jmbZnmVeO8rOvs5gyAQw3ij4XhweZ50+BiIKwkDSrMKrBGRYiXh7Yy0FICko2ZjPh/olHeFCjwX864N2kAAAAASUVORK5CYII=",
+    "Type": "Mas vendidos"
+  }, {
+    "id": 8,
+    "Categoria ": "Grips",
+    "Genero": "Grips",
+    "Marca": "Babolat",
+    "descripcion": "ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non",
+    "precio": 36.96,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALwSURBVDjLhZJJTBNhFIDfTKcdumGtBYqtbSgQkE0DaggqiyhBPchBjWLiEuPBaAyHetEEE6NouOjFE5407gESExKNVlyCCYsLRkNYQrqwWVRKO22n//zz/w4kEgKi3+29/39fXt57DKUU/pDTMmqoNKlbrWbNZqtOtQphimficiwQTIx4voQOeJs3eGEJ7OJg8JRL8ATiN0DPTW906tnNGQbNW2/sxcu+maOygH3wF7jFQWbzIGPkmd1ZRs56vn38bnGGfoMYQiIRcDBwexP9r4DE8fHLdc7TF+75boV/Jh5VZBnuGnnWTJP43LwrwyeSdVy2jCkCTJXWiSYSwuMLgoyLX7P3V6S4p8JSeHZKfEATcmytljNpOdYAhCShKI2n2NTFzjVqA5EA3nWH2n9Noc8LArOOdVc4dDnTYSy46x1PkxhGnWvlzd2DrEHyhYYtW3R2Dqh+YCQ66kznXT8m4t8oJjc5Z8NnjiD58PWTrvqWzuCb3s7vt5UHRGViazyXc4lngFelGvcUZunrfH7x69BAxJ1q0jzjKOgCD4sRqwwob1912vlfAo73vJxyTzwuezDZtq2VSPj5hxFhjKOMsbDEfM1AjpLc9P0FFMl6BhPQ8kz6/BrPHrR356fwhbNRrNtbk3Z1LplS6ykpr7bd2ZlnKoqI4LStVptEJIh2y3qoqjrSShSBhoXkub/M4kNaTMP9ckqIJCNCVAhjsJkzoci+DXq8r6B/rBfGP3V0TP6IHuNgBZQxwK78YyqZEpCJDAQoTMwGoNC+FQQUh9D6sj3wuiN1RYGIEcwV+34Og0SwIpRAkiUIJyKwcd12EKQYEyqt7l8mSDv0sYQSWllTIwKWMaQlO5RieV42OesHs8EKHwNd0D3sx8G+tjPLZlDbPBrWqMHIaXeBiCRAJKF0kyCZlny21FUDff730DXkAxd5AgRzaMUhLqXgCju9ybHD8nrI8wERKJtoUk76X1tYiquRmZaJyhInsjrYRPGf/G9oAXqKbs089gAAAABJRU5ErkJggg==",
+    "Type": "Mas vendidos"
+  }, {
+    "id": 9,
+    "Categoria ": "Bolso",
+    "Genero": "Bolsos",
+    "Marca": "Head",
+    "descripcion": "eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a",
+    "precio": 93.62,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKISURBVDjLpZNLiM1xFMc/v//877yYMYwxjzzKW8MMG8YkMwgrLJRXFAsbj4VkUpLsJMoCCwuPokyShYRhgabbhBg3N+8xpGtct3ncedz7///v7xyLG9NEs3HqrE59zqfT+RpV5X/KGW348+GyaLylftQNRlXpaV2hKoqqLkF0uoquVdWd+VXrUFWGOm+hordV5K6KhsVKWEULp25qN0ZV6X7SqHlV68j0RHHyynBLasmvWAk5YwFBgx7SP8Kk4y/wu99RMLmR3shlpm2NGBdARYvTsZbk+LqLoILafoK+NtzipRjj4sebCRXOJ3fOdlBL4ulJxMqaPzcobXzcL8EgqBAkbhIk7iDpL6ACKOJ14cWuMfThKKjgdXegIs8B3N/HUNGsrvVBAjCCpMKYnAC16WxnPFCLEyomM5SsBHqGAVZAFcRHbYBxLJACE2DUA02DeFkjaxEr8reBZg1UA9AcIA14KB5qA9R6qAqIQa2ERgKsIOLhFMzADkTA5ILjg5O1eBTLo/X7ePqencRPCamhwh3XockZNpAzyTdXcMfVYUITMK7BuAHG9Xnw2dKeKaNheQN7tuyldnE1TORQ3b6qU38AVRueHxjsvE/yfTO55RtxCsbg5AYYd5Dbr5MsnFuLdSy1lauxJqBuQT3A3hGvrFbKBjruMdBxn1DpNow7E+MMEu9LEDJjWT9vPwAHV11gxqQagPwRgKmbXyUyqWR1b7SZ3shVrD8FzG76B7qJxsKceLALgBMtu/gUjwCkzb/S+PHS3HK1st9xxxwpmt3Iubs3eqMlRSX1NcuYVbGID10vCUda+fa577QZLc5vz0+fYP3McfEzTbu/cgzYAxQB/cD5trOxw78Ay4ZsAbSg5bYAAAAASUVORK5CYII=",
+    "Type": "Ingresos"
+  }, {
+    "id": 10,
+    "Categoria ": "Raqueta",
+    "Genero": "Grips",
+    "Marca": "Babolat",
+    "descripcion": "pede venenatis non sodales sed tincidunt eu felis fusce posuere",
+    "precio": 21.14,
+    "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIMSURBVDjLjZO9apVBEIaf2f2iRxMJUfEHFEStBCtRC0sLSzsbEcFCrQQVL0AvQAgkd2FhZyOkNRAsrERQRMFwonDM/35nd/a1OCfHRKI4MEwx7LMvM++YJADM7ARwFIj8O5aAL5IqAJIYQi6klH7mnL2Uot0ypaSZmZlp4BQQJO0AXMo5+9ramtbX10e5vLysXq+nbrerUooWFxc1Ozs7gjRD+TasIcZICIFaK7nCSomkYlAinQydiUlu3rr9IDZjdv/e3ecmaQtwsZQyv9F3Pq8ZH1eNzSzGGzEenA4txw8eYH+ETgNjASb2Npeb7dNZ+A5vfzTkKvYE6EQIDgEjhDGWeqvsC06jwvEjhwEYAR6+/PBo7pshREDkAKVCFQwQYBGMQCdGNot+A57O5ye56noqQgwa0USJRqngMg7vNcZiZLNAJbDSH3zcPFuoU1n2uHWFKDEAi2hw/iCcnTTOTRm1DjbmLlYzpKHypnVdzc5Uv4IJXKIKbpwxrhyz0XzMDEnEGJkM4lAz6DV953TfZX2HiihVXDsZuHLMtvwxMpyZUWvdYcsmuazvCn2XXIPBnRjf6d3toBDCjl5oXbQOrWOtQ3Lx6msdyd6qf+Y2AL3WZcnFpotUxJtuZfqd//XxEFABQip6nQYqLLlIDq2LF5+cO3OZ9z3tdpHV3TcAt23nfHJ4zoH/CweWfgFQJVPOGSHTggAAAABJRU5ErkJggg==",
+    "Type": "Ingresos"
+  }]
+  
